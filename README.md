@@ -26,11 +26,11 @@ Welcome to **CryptoAidNetwork (CAN)**, an innovative **Web 3.0 application** ded
 - HTML
 - CSS
 - JavaScript
+- React
 - MetaMask
-- ThirdWeb (for compiling and deploying contracts)
 - Solidity
+- ThirdWeb (for compiling and deploying contracts)
 - Node.js
-- Tailwind
 
 ## Contribution Guidelines
 
