@@ -5,9 +5,7 @@
 - [Introduction](#introduction)
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
 - [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
 
 ## Introduction
 
