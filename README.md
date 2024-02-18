@@ -6,6 +6,7 @@
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Contribution Guidelines](#contribution-guidelines)
+- [Contributors](#contributors)
 
 ## Introduction
 
