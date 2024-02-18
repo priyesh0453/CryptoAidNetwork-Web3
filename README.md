@@ -39,3 +39,9 @@ We welcome contributions! To get started, please follow these guidelines:
 - Create a new branch for your feature or bug fix.
 - Make your changes and submit a pull request.
 - Provide a detailed description of your changes.
+
+## Contributors
+
+Feel free to reach out to:
+- [@priyesh0453](https://github.com/priyesh0453)
+- [@Rohitp100](https://github.com/Rohitp100)
