@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Welcome to **CryptoAidNetwork (CAN)**, an innovative **Web 3.0 application** dedicated to fostering inclusion, accessibility, and philanthropy. Crafted in collaboration with the **MLH Web 3.0 Apps Hackathon**, join us in making a profound difference in the world!
+Welcome to **CryptoAidNetwork (CAN)**, an innovative **Web 3.0 application** dedicated to fostering inclusion, accessibility, and philanthropy. Crafted in collaboration with the **"MLH Web 3.0 Apps Hackathon"**, join us in making a profound difference in the world!
 
 ## Key Features
 
