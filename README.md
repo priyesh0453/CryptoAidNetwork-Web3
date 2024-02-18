@@ -1,2 +1,43 @@
-# CryptoAidNetwork-Web3
-Web 3.0 philanthropy platform, CryptoAidNetwork (CAN), globally connecting hearts for a better tomorrow. Empower, donate, and transform lives with transparency and security. Developed in collaboration with the MLH Web3.0Apps Hackathon.
+# CryptoAidNetwork (CAN) - Web3 Philanthropy Platform - MLH Web3Apps Hackathon
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license)
+
+## Introduction
+
+Welcome to **CryptoAidNetwork (CAN)**, an innovative **Web 3.0 application** dedicated to fostering inclusion, accessibility, and philanthropy. Crafted in collaboration with the **MLH Web 3.0 Apps Hackathon**, join us in making a profound difference in the world!
+
+## Key Features
+
+1. **MetaMask Sign-In:** Achieve seamless authentication and contribute securely.
+2. **Platform-owned Token [CAN]:** Support the ecosystem and trade CAN tokens (receive back 2% of the value donated in your account) in public markets (in development).
+3. **GitHub Publishing of Contracts via Oracle:** Ensure transparency and fraud prevention through open-source verification (Partial-emitting events/contracts achieved at present).
+4. **Funds Creation:** Create funds with deadlines, desired values, and authentic reports via images/URLs.
+5. **Seamless & Verified Donations:** Transparent transactions for donors, showcasing impactful results.
+6. **User Dashboard:** Empower users with insights and control.
+7. **Dark Mode & Improved UI Experience:** Ongoing refinement for an enhanced user interface.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- MetaMask
+- ThirdWeb (for compiling and deploying contracts)
+- Solidity
+- Node.js
+- Tailwind
+
+## Contribution Guidelines
+
+We welcome contributions! To get started, please follow these guidelines:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and submit a pull request.
+- Provide a detailed description of your changes.
