@@ -14,7 +14,7 @@ Welcome to **CryptoAidNetwork (CAN)**, an innovative **Web 3.0 application** ded
 ## Key Features
 
 1. **MetaMask Sign-In:** Achieve seamless authentication and contribute securely.
-2. **Platform-owned Token [CAN]:** Support the ecosystem and trade CAN tokens (receive back 2% of the value donated in your account) in public markets (in development).
+2. **Platform-owned Token [CAN]:** Support the ecosystem and trade CAN tokens (receive back 2% of the value donated in the form of CAN (platform token) to your account) in public markets (in development).
 3. **GitHub Publishing of Contracts via Oracle:** Ensure transparency and fraud prevention through open-source verification (Partial-emitting events/contracts achieved at present).
 4. **Funds Creation:** Create funds with deadlines, desired values, and authentic reports via images/URLs.
 5. **Seamless & Verified Donations:** Transparent transactions for donors, showcasing impactful results.
